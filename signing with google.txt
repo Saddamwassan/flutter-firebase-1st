@@ -1,0 +1,13 @@
+=>go open google from firebase services
+=> run space./gradle signingReport in powershell
+to generate SHA key
+=> go to firebase setting in fingerprint add any SHA1 key from powershell
+if you have error add SHA 256 key to finger
+
+we use ?  for type safety it means value can be null aswell
+
+google auth has 2 things 
+.access Token
+.id Token
+
+user defined datatype its class type

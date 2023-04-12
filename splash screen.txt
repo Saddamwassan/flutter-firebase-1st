@@ -1,0 +1,20 @@
+why splash screen?
+To show some design to users while app is performing processing.
+
+ways to create splash screen.
+.flutter native library.
+.explore more ways on your own.
+
+oneline method we use Arrow method.
+
+oop concepts
+classes
+abtstract class
+interference class
+simple class
+
+override 
+
+dart concepts
+
+constructor > Name of class when object is created
